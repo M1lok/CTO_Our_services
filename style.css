@@ -1,1 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(13, 90, 191);
+}
 
+header img {
+    height: 100px;
+    width: 100px;
+}
+h1 {
+    font-size: 36px;
+    color: rgb(247, 30, 37);
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+h3 {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+nav {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+ footer{ 
+text-align: center;
+ }
